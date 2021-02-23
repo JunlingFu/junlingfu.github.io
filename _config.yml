@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JunlingFu / Site Title"
+title                    : "JunlingFu"
 title_separator          : "-"
 name                     : &name "JunlingFu"
 description              : &description "personal description"
